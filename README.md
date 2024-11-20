@@ -16,4 +16,5 @@ Python 3.0
 (Bash) % brew install python3 + Terminal
 
 Extensions in Sublime: 
-BracketHiglighter
+BracketHiglighter 
+SideBarEnhanchements
