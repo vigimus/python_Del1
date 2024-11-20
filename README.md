@@ -14,3 +14,6 @@ https://www.python.org/
 IDE for Python 
 Python 3.0
 (Bash) % brew install python3 + Terminal
+
+Extensions in Sublime: 
+BracketHiglighter
